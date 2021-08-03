@@ -6,7 +6,7 @@ import ipywidgets
 from itertools import cycle
 from typing import Union, Dict, List, Tuple, Iterable, Optional
 
-from src.utils import Result
+from src.results import Result
 from src.vizfuncs import create_alpha_cmap, axis_idx_slider_factory
 
 
